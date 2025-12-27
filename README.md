@@ -8,6 +8,7 @@ I enjoy working on gameplay mechanics, UI systems, and performance optimization,
 ### 🛠 Tech Stack
 - **Engine:** Unity
 - **Languages:** C#, basic C++
+- **Frameworks and Libraraies:** DOOTween, Profiler, Ai agent, Photon Pun 2
 - **Game Dev:** Gameplay logic, UI systems, ScriptableObjects, event-driven architecture
 - **Optimization:** Sprite Atlases, batching, draw call optimization
 - **Backend / Data:** Supabase (auth, database, client-server interaction)
@@ -17,7 +18,7 @@ I enjoy working on gameplay mechanics, UI systems, and performance optimization,
 ---
 
 ### 🚀 What I’m working on
-- Developing **projects** in Unity (casual, strategy, RTS-style mechanics)
+- Developing **projects** in Unity (casual, strategy, card games, RTS-style mechanics)
 - Improving **code structure and architecture**
 - Working with **client-server features** for games
 
