@@ -1,16 +1,57 @@
-## Hi there 👋
+## Hi there 👋 I'm a Unity Developer
 
-<!--
-**S1kar1o/S1kar1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Junior Unity Developer with hands-on experience in building small to mid-scale game projects.  
+I enjoy working on gameplay mechanics, UI systems, and performance optimization, especially for mobile platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Engine:** Unity
+- **Languages:** C#, basic C++
+- **Game Dev:** Gameplay logic, UI systems, ScriptableObjects, event-driven architecture
+- **Optimization:** Sprite Atlases, batching, draw call optimization
+- **Backend / Data:** Supabase (auth, database, client-server interaction)
+- **Platforms:** PC, Android
+- **Tools:** Git, GitHub, Visual Studio, Android Studio
+
+---
+
+### 🚀 What I’m working on
+- Developing **pet projects** in Unity (casual, strategy, RTS-style mechanics)
+- Improving **code structure and architecture**
+- Experimenting with **client-server features** for games
+
+---
+
+### 🌱 Currently learning
+- Advanced Unity optimization techniques  
+- Better game architecture patterns  
+- Low-level concepts (C++ fundamentals, graphics basics)
+
+---
+
+### 📂 Projects
+You can find my projects here on GitHub:
+- Gameplay prototypes and mechanics
+- UI and interaction systems
+- Experimental features and technical demos
+
+Each project includes a README with implementation details.
+
+---
+
+### 💬 Ask me about
+- Unity & C# basics
+- Game UI implementation
+- Mobile optimization in Unity
+- Pet projects and learning game development
+
+---
+
+### 📫 How to reach me
+- GitHub: **[@S1kar1o](https://github.com/S1kar1o)**  
+<!-- add email or LinkedIn later if needed -->
+
+---
+
+⚡ *Always learning, experimenting, and improving as a game developer.*
