@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm a Unity Developer
 
-🎮 Junior Unity Developer with hands-on experience in building small to mid-scale game projects.  
+🎮 Junior Unity Developer with 1.5 yeard experience in building small to mid-scale game projects in company.  
 I enjoy working on gameplay mechanics, UI systems, and performance optimization, especially for mobile platforms.
 
 ---
@@ -13,7 +13,7 @@ I enjoy working on gameplay mechanics, UI systems, and performance optimization,
 - **Optimization:** Sprite Atlases, batching, draw call optimization
 - **Backend / Data:** Supabase (auth, database, client-server interaction)
 - **Platforms:** PC, Android
-- **Tools:** Git, GitHub, Visual Studio, Android Studio
+- **Tools:** Git, GitHub, Visual Studio
 
 ---
 
@@ -35,7 +35,8 @@ Each project includes a README with implementation details.
 ---
 
 ### 📫 How to reach me
-- GitHub: **[@S1kar1o](https://github.com/S1kar1o)**  
+- GitHub: **[@S1kar1o](https://github.com/S1kar1o)**
+- LinkedIn: **(https://www.linkedin.com/in/oleksandr-kovalchuk-0a0227384/)**
 <!-- add email or LinkedIn later if needed -->
 
 ---
