@@ -17,16 +17,9 @@ I enjoy working on gameplay mechanics, UI systems, and performance optimization,
 ---
 
 ### 🚀 What I’m working on
-- Developing **pet projects** in Unity (casual, strategy, RTS-style mechanics)
+- Developing **projects** in Unity (casual, strategy, RTS-style mechanics)
 - Improving **code structure and architecture**
-- Experimenting with **client-server features** for games
-
----
-
-### 🌱 Currently learning
-- Advanced Unity optimization techniques  
-- Better game architecture patterns  
-- Low-level concepts (C++ fundamentals, graphics basics)
+- Working with **client-server features** for games
 
 ---
 
@@ -37,14 +30,6 @@ You can find my projects here on GitHub:
 - Experimental features and technical demos
 
 Each project includes a README with implementation details.
-
----
-
-### 💬 Ask me about
-- Unity & C# basics
-- Game UI implementation
-- Mobile optimization in Unity
-- Pet projects and learning game development
 
 ---
 
