@@ -36,7 +36,7 @@ Each project includes a README with implementation details.
 
 ### 📫 How to reach me
 - GitHub: **[@S1kar1o](https://github.com/S1kar1o)**
-- LinkedIn: **(https://www.linkedin.com/in/oleksandr-kovalchuk-0a0227384/)**
+- LinkedIn: **([Oleksandr]https://www.linkedin.com/in/oleksandr-kovalchuk-0a0227384/)**
 <!-- add email or LinkedIn later if needed -->
 
 ---
