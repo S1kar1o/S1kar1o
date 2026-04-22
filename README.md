@@ -9,7 +9,7 @@ I am an experienced Unity Developer with over 2 years of experience in building 
 **Core & Architecture:**
 - **Languages:** C#, C++, SQL (PostgreSQL).
 - **Patterns:** SOLID, DRY, KISS, YAGNI.
-- **Architectural Patterns:** **Zenject (Dependency Injection)**, **Service Locator**, MVP, MVVM, Observer, Factory, State Machine.
+- **Architectural Patterns:** **Zenject (Dependency Injection)**, **Service Locator**, MVP, MVC, MVVM, Observer, Factory, State Machine.
 
 **Unity Engine:**
 - **Systems:** URP, Shader Graph, Addressables, NavMesh, New Input System.
