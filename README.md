@@ -29,7 +29,8 @@ I am an experienced Unity Developer with over 2 years of experience in building 
 
 - **Threads of Echo:** (Released on Google Play) — A complex RPG/Visual Novel with branching narratives and deep data structures.
 - **Start-up RTS:** Implemented building systems, unit AI (State Machines), and optimized unit spawning via Object Pools.
-- **Custom Asset Store Tools:** - **Narrative Engine** — Node-based dialogue system.
+- **Custom Asset Store Tools:**
+  - **Narrative Engine** — Node-based dialogue system.
   - **Developer Toolkit** — Custom Editor & Inspector utilities.
   - **SoundCore Toolkit** — Audio management with built-in pooling.
 
