@@ -48,7 +48,7 @@ Check out my professional tools for developers:
 - **GitHub:** [@S1kar1o](https://github.com/S1kar1o)
 - **LinkedIn:** [Oleksandr](https://www.linkedin.com/in/oleksandr-kovalchuk-0a0227384/)
 - **Portfolio & Demos:** [Gameplay Examples Folder](https://mega.nz/folder/EhpDQbKT)
-
+- **Portfolio & Demos key: V17P70jz5zE7N4BYGM6M3Q**
 ---
 
 ⚡ *Always learning, experimenting, and architecting better game solutions.*
