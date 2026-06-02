@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Oleksandr, a Unity Game Developer
 
-I am an experienced Unity Developer with over 2 years of experience in building mobile and desktop game projects. I specialize in creating scalable gameplay systems, high-performance architectures, and custom editor tools.
+I am an experienced Unity Developer with over year of experience in building mobile and desktop game projects. I specialize in creating scalable gameplay systems, high-performance architectures, and custom editor tools.
 
 ---
 
